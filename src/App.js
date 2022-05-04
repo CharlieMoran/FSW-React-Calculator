@@ -43,7 +43,7 @@ class App extends React.Component {
       input: "",
       previousNum: "",
       err: "no",
-    });h
+    });
   };
 
   clickNeg = () => {
